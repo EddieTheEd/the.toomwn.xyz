@@ -28,3 +28,8 @@ A domain for members of the town to host their website.
 - [blaze.toomwn.xyz](https://blaze.toomwn.xyz/)
 - [frengraph.toomwn.xyz](https://frengraph.toomwn.xyz/)
 - [highproductivitymethanolcarbonylationcatalysisusingiridium.toomwn.xyz](https://highproductivitymethanolcarbonylationcatalysisusingiridium.toomwn.xyz/)
+- [dating.toomwn.xyz](https://dating.toomwn.xyz/)
+- [litanki.toomwn.xyz](https://litanki.toomwn.xyz/)
+- [page.toomwn.xyz](https://page.toomwn.xyz/) by ossac very cool
+- [pinyin.toomwn.xyz](https://pinyin.toomwn.xyz/)
+- [demeter.toomwn.xyz](https://demeter.toomwn.xyz/)
