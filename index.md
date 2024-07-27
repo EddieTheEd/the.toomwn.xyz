@@ -33,3 +33,4 @@ A domain for members of the town to host their website.
 - [page.toomwn.xyz](https://page.toomwn.xyz/) by ossac very cool
 - [pinyin.toomwn.xyz](https://pinyin.toomwn.xyz/)
 - [demeter.toomwn.xyz](https://demeter.toomwn.xyz/)
+- [cooking.toomwn.xyz](https://cooking.toomwn.xyz/)
